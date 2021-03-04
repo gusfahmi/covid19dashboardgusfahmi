@@ -1,0 +1,16 @@
+for Country
+https://covid19.mathdro.id/api/countries/indonesia
+
+for World
+https://covid19.mathdro.id/api
+
+
+for world confirmed
+https://api.covid19api.com/summary
+
+
+all Country
+https://restcountries.eu/rest/v2/all
+
+country search api
+https://restcountries.eu/rest/v2/name/{country query}
