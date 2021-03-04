@@ -172,7 +172,7 @@ export default function Body() {
 
 					<Grid item xs={12} sm={4}>
 						<Link
-							to='/view/TH'
+							to='/view/th'
 							style={{ color: "#000", textDecoration: "none" }}>
 							<Paper className={Styles.cardContainer}>
 								<img
