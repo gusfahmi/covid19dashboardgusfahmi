@@ -104,12 +104,13 @@ export default function View({ match }) {
 		<>
 			{isLoading ? (
 				<div className={styles.wrapLoading}>
+					<CssBaseline />
 					<CircularProgress />
 				</div>
 			) : (
 				<>
 					<Header from='View' refresh='View' />
-
+					<CssBaseline />
 					<div className={styles.wrapView}>
 						<Grid container>
 							<div className={styles.wrapTitle}>
